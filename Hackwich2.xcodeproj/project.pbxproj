@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F9A06C4202BBBD100216ABE /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9A06C3202BBBD100216ABE /* SecondViewController.swift */; };
 		7FF51A1720167C4500A8E9B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF51A1620167C4500A8E9B1 /* AppDelegate.swift */; };
 		7FF51A1920167C4500A8E9B1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF51A1820167C4500A8E9B1 /* ViewController.swift */; };
 		7FF51A1C20167C4500A8E9B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FF51A1A20167C4500A8E9B1 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7F9A06C3202BBBD100216ABE /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		7FF51A1320167C4500A8E9B1 /* Hackwich2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hackwich2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FF51A1620167C4500A8E9B1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7FF51A1820167C4500A8E9B1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				7FF51A1620167C4500A8E9B1 /* AppDelegate.swift */,
 				7FF51A1820167C4500A8E9B1 /* ViewController.swift */,
 				7FF51A1A20167C4500A8E9B1 /* Main.storyboard */,
+				7F9A06C3202BBBD100216ABE /* SecondViewController.swift */,
 				7FF51A1D20167C4500A8E9B1 /* Assets.xcassets */,
 				7FF51A1F20167C4500A8E9B1 /* LaunchScreen.storyboard */,
 				7FF51A2220167C4500A8E9B1 /* Info.plist */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F9A06C4202BBBD100216ABE /* SecondViewController.swift in Sources */,
 				7FF51A1920167C4500A8E9B1 /* ViewController.swift in Sources */,
 				7FF51A1720167C4500A8E9B1 /* AppDelegate.swift in Sources */,
 			);
